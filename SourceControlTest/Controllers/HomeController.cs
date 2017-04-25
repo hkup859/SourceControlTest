@@ -15,7 +15,7 @@ namespace SourceControlTest.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your test1 description page.";
 
             return View();
         }
